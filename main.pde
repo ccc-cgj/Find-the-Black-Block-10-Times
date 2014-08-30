@@ -7,7 +7,7 @@ void setup() {
   x=random(width);
   y=random(height);
   count=0;
-  time=4000;
+  time=3000;
 }
 void draw() {
   background(0);
